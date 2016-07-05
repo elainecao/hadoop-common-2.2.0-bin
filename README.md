@@ -7,7 +7,7 @@ hadoop-common-2.2.0/bin
 
 #　　1.下载winutils的windows版本
 
-#　　GitHub上，有人提供了winutils的windows的版本，项目地址是：https://github.com/srccodes/hadoop-common-2.2.0-bin,直接下载此项目的zip包，下载后是文件名是hadoop-common-2.2.0-bin-master.zip,随便解压到一个目录
+#　　这是  winutils的windows的版本，直接下载此项目的zip包，下载后是文件名是hadoop-common-2.2.0-bin-master.zip,解压到一个目录
 
 #　　2.配置环境变量
 
